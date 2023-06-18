@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bschatbotclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AdelMandour/BSChatBotClient",
+      "state" : {
+        "revision" : "b63d594313dd37c2d73292af746a4431c0bfc500",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
